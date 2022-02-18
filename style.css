@@ -1,0 +1,18 @@
+/* alt shift f */
+.container {
+  text-align: center;
+}
+
+h1 {
+  padding: 10px;
+  color: blueviolet;
+  background: pink;
+  text-align: center;
+}
+
+img {
+  /* inline, inline-block, block, flex, grid */
+  display: block;
+  width: 300px;
+  height: 100px;
+}
